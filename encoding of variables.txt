@@ -1,0 +1,20 @@
+job; management = 0, technician = 1, entrepreneur = 2, bluecollar = 3, retired = 4, admin. = 5, services = 6,
+self-employed = 7, unemployed = 8, housemaid = 9, student = 10, 
+
+
+marital; single = 0, married = 1, divorced = 2
+
+
+education; primary = 1, secondary = 2, tertiary = 3
+
+
+contact; cellular = 0, telephone = 1
+
+
+month; ov = 999, may = 05, jun = 06, jul = 07, aug = 08, oct = 10, feb = 02, jan = 01, mar = 03, apr = 04, sep = 09, dec = 12
+
+poutcome; failure = 0, success = 1, other = 2
+
+no = 0
+yes = 1
+unknown = 999
